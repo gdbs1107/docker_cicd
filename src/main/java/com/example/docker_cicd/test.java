@@ -10,6 +10,6 @@ public class test {
 
     @GetMapping("/")
     public String index() {
-        return "hello9";
+        return "hello10";
     }
 }
