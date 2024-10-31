@@ -3,11 +3,11 @@ spring:
     name: Trends
   config:
     activate:
-      on-profile: local
+      on-profile: dev
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost/test
+    url: jdbc:mysql://docker-prac.cj6u4kmew97i.ap-northeast-2.rds.amazonaws.com:3306/test
     username: root
     password: Esc141414!
 
