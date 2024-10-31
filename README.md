@@ -1,6 +1,7 @@
 # TODO_
 - Docker compose 구현 공부
 - RDS와의 연결
+    - clear
 
 # ELB & DOCKER
 - ELB와 도커 같이 사용하는 법 연구
